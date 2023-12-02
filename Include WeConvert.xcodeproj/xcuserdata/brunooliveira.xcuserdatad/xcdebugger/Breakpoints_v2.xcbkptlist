@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "914377B9-DD11-4F6C-9B54-2B7DEFBDACCA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "621052EC-A324-4925-9034-3D9CF8C2AD9C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "621052EC-A324-4925-9034-3D9CF8C2AD9C - 4ac7ab1a6378e47f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(_: SwiftUI.LocalizedStringKey, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_0, message: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(_: SwiftUI.LocalizedStringKey, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_0, message: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0&gt;)&gt; in Include_WeConvert.ContentView.body.getter : some"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "601">
+               </Location>
+               <Location
+                  uuid = "621052EC-A324-4925-9034-3D9CF8C2AD9C - 450ccc1cbbfa3809"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(_: SwiftUI.LocalizedStringKey, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_0, message: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(_: SwiftUI.LocalizedStringKey, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_0, message: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0&gt;)&gt; in Include_WeConvert.ContentView.body.getter : some"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  uuid = "621052EC-A324-4925-9034-3D9CF8C2AD9C - 450ccc1cbbfa3809"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(_: SwiftUI.LocalizedStringKey, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_0, message: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(_: SwiftUI.LocalizedStringKey, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_0, message: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0&gt;)&gt; in Include_WeConvert.ContentView.body.getter : some"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBD60370-A99A-4152-9DEC-576421AA334D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DBD60370-A99A-4152-9DEC-576421AA334D - f080829afbe7cb51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "DBD60370-A99A-4152-9DEC-576421AA334D - f080829afbe7cbb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "DBD60370-A99A-4152-9DEC-576421AA334D - 3c7a372e922fddc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert() -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "2834">
+               </Location>
+               <Location
+                  uuid = "DBD60370-A99A-4152-9DEC-576421AA334D - 3c7a372e922fde27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert() -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "2846">
+               </Location>
+               <Location
+                  uuid = "DBD60370-A99A-4152-9DEC-576421AA334D - 7300b22ed4731502"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1918">
+               </Location>
+               <Location
+                  uuid = "DBD60370-A99A-4152-9DEC-576421AA334D - 7300b22ed47314be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "1621">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE00F47F-F4A0-4442-83E2-FFE46137EBE6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "CE00F47F-F4A0-4442-83E2-FFE46137EBE6 - f080829afbe7c878"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1446">
+               </Location>
+               <Location
+                  uuid = "CE00F47F-F4A0-4442-83E2-FFE46137EBE6 - f080829afbe7c859"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1446">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DB31E17-AD06-4A22-B519-27F8F1FBACB8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "1DB31E17-AD06-4A22-B519-27F8F1FBACB8 - f080829afbe7c859"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1619">
+               </Location>
+               <Location
+                  uuid = "1DB31E17-AD06-4A22-B519-27F8F1FBACB8 - f080829afbe7c8be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "1619">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB41A426-2B8B-438E-9F3F-33E1A47F358B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "FB41A426-2B8B-438E-9F3F-33E1A47F358B - f080829afbe7c8fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "1658">
+               </Location>
+               <Location
+                  uuid = "FB41A426-2B8B-438E-9F3F-33E1A47F358B - f080829afbe7c8dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1658">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7776B9D5-D47C-4238-BC29-4E23D1856FBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7776B9D5-D47C-4238-BC29-4E23D1856FBD - 450ccc1cbbfa3809"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(_: SwiftUI.LocalizedStringKey, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_0, message: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(_: SwiftUI.LocalizedStringKey, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_0, message: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0&gt;)&gt; in Include_WeConvert.ContentView.body.getter : some"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "7776B9D5-D47C-4238-BC29-4E23D1856FBD - 450ccc1cbbfa38e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(_: SwiftUI.LocalizedStringKey, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_0, message: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(_: SwiftUI.LocalizedStringKey, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_0, message: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0&gt;)&gt; in Include_WeConvert.ContentView.body.getter : some"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "7776B9D5-D47C-4238-BC29-4E23D1856FBD - efc477daca19fc82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in closure #3 () -&gt; SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;)&gt; in Include_WeConvert.ContentView.body.getter : some"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EB7D65E-D749-4E86-BC62-8785DDAC97C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3EB7D65E-D749-4E86-BC62-8785DDAC97C8 - f080829afbe7cb97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "3EB7D65E-D749-4E86-BC62-8785DDAC97C8 - f080829afbe7cbf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "3EB7D65E-D749-4E86-BC62-8785DDAC97C8 - 3c7a372e922fdea3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert() -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "3096">
+               </Location>
+               <Location
+                  uuid = "3EB7D65E-D749-4E86-BC62-8785DDAC97C8 - 3c7a372e922fdf9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert() -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "3114">
+               </Location>
+               <Location
+                  uuid = "3EB7D65E-D749-4E86-BC62-8785DDAC97C8 - 7300b22ed473126b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "2519">
+               </Location>
+               <Location
+                  uuid = "3EB7D65E-D749-4E86-BC62-8785DDAC97C8 - 7300b22ed4731540"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1848">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62E793D1-C916-4303-90E6-1A9799073B23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "62E793D1-C916-4303-90E6-1A9799073B23 - f080829afbe7c83a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "737">
+               </Location>
+               <Location
+                  uuid = "62E793D1-C916-4303-90E6-1A9799073B23 - f080829afbe7c81b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "737">
+               </Location>
+               <Location
+                  uuid = "62E793D1-C916-4303-90E6-1A9799073B23 - 3c7a372e922fdea3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert() -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "3096">
+               </Location>
+               <Location
+                  uuid = "62E793D1-C916-4303-90E6-1A9799073B23 - 3c7a372e922fdf9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert() -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "3114">
+               </Location>
+               <Location
+                  uuid = "62E793D1-C916-4303-90E6-1A9799073B23 - 7300b22ed473126b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "2519">
+               </Location>
+               <Location
+                  uuid = "62E793D1-C916-4303-90E6-1A9799073B23 - 7300b22ed4731540"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1848">
+               </Location>
+               <Location
+                  uuid = "62E793D1-C916-4303-90E6-1A9799073B23 - 935b082f5393fa72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Double, Swift.String, Swift.String) -&gt; Swift.Double"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "1843">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0081C4FD-28DB-4E4E-8F17-B06C36FC6537"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "0081C4FD-28DB-4E4E-8F17-B06C36FC6537 - f080829afbe7c83a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "737">
+               </Location>
+               <Location
+                  uuid = "0081C4FD-28DB-4E4E-8F17-B06C36FC6537 - f080829afbe7c81b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "737">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E741471-D550-44A7-B454-56C4CDEA396B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7E741471-D550-44A7-B454-56C4CDEA396B - f080829afbe7cb51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "7E741471-D550-44A7-B454-56C4CDEA396B - f080829afbe7cbb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "7E741471-D550-44A7-B454-56C4CDEA396B - 3c7a372e922fdd2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert() -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "3040">
+               </Location>
+               <Location
+                  uuid = "7E741471-D550-44A7-B454-56C4CDEA396B - 3c7a372e922fde06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert() -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "3055">
+               </Location>
+               <Location
+                  uuid = "7E741471-D550-44A7-B454-56C4CDEA396B - 7300b22ed47315a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "2239">
+               </Location>
+               <Location
+                  uuid = "7E741471-D550-44A7-B454-56C4CDEA396B - 7300b22ed47314fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "1806">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71A1B41D-F741-4347-BC5B-000E4E065D29"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71A1B41D-F741-4347-BC5B-000E4E065D29 - f080829afbe7cbb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "393">
+               </Location>
+               <Location
+                  uuid = "71A1B41D-F741-4347-BC5B-000E4E065D29 - f080829afbe7cb97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "393">
+               </Location>
+               <Location
+                  uuid = "71A1B41D-F741-4347-BC5B-000E4E065D29 - 3c7a372e922fdd0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert() -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "3075">
+               </Location>
+               <Location
+                  uuid = "71A1B41D-F741-4347-BC5B-000E4E065D29 - 3c7a372e922fde65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert() -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "3090">
+               </Location>
+               <Location
+                  uuid = "71A1B41D-F741-4347-BC5B-000E4E065D29 - 7300b22ed47315c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "2386">
+               </Location>
+               <Location
+                  uuid = "71A1B41D-F741-4347-BC5B-000E4E065D29 - 7300b22ed4731540"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1848">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3161E84D-A47A-489C-92E4-3625BD380C52"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "3161E84D-A47A-489C-92E4-3625BD380C52 - f080829afbe7c878"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1446">
+               </Location>
+               <Location
+                  uuid = "3161E84D-A47A-489C-92E4-3625BD380C52 - f080829afbe7c859"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1446">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F7BE093-7C6B-4BB0-A252-25354FFBE8AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "3F7BE093-7C6B-4BB0-A252-25354FFBE8AE - f080829afbe7c8fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "1658">
+               </Location>
+               <Location
+                  uuid = "3F7BE093-7C6B-4BB0-A252-25354FFBE8AE - f080829afbe7c8dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1658">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A1D6BDA-5E68-4A46-AA13-64AB8A857622"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "179"
+            endingLineNumber = "179">
+            <Locations>
+               <Location
+                  uuid = "9A1D6BDA-5E68-4A46-AA13-64AB8A857622 - f080829afbe7c8fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "1658">
+               </Location>
+               <Location
+                  uuid = "9A1D6BDA-5E68-4A46-AA13-64AB8A857622 - f080829afbe7c8dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.String, Swift.String, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1658">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B2E2D12-C3B4-43BB-B12A-EC4BA9CFAD19"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEACF7AF-E770-46F1-86EA-B36BDC686EA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EEACF7AF-E770-46F1-86EA-B36BDC686EA0 - 3c7a372e922fddc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert() -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  uuid = "EEACF7AF-E770-46F1-86EA-B36BDC686EA0 - 7300b22ed4731751"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "193">
+               </Location>
+               <Location
+                  uuid = "EEACF7AF-E770-46F1-86EA-B36BDC686EA0 - 7300b22ed4731713"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "178">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E5FEBAB-4819-4142-B8D0-ABCCF14275EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E5FEBAB-4819-4142-B8D0-ABCCF14275EE - 3c7a372e922fddc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert() -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  uuid = "0E5FEBAB-4819-4142-B8D0-ABCCF14275EE - 7300b22ed4731751"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "193">
+               </Location>
+               <Location
+                  uuid = "0E5FEBAB-4819-4142-B8D0-ABCCF14275EE - 7300b22ed4731713"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "178">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E537F8AD-C6C8-4B62-8DB0-3945F792F295"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E537F8AD-C6C8-4B62-8DB0-3945F792F295 - 3c7a372e922fdd0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert() -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "498">
+               </Location>
+               <Location
+                  uuid = "E537F8AD-C6C8-4B62-8DB0-3945F792F295 - 7300b22ed4731797"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "E537F8AD-C6C8-4B62-8DB0-3945F792F295 - 7300b22ed4731751"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "333">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0ECF1F6D-7790-4574-B66C-177174A9CFE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0ECF1F6D-7790-4574-B66C-177174A9CFE9 - 3c7a372e922fdd0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert() -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "498">
+               </Location>
+               <Location
+                  uuid = "0ECF1F6D-7790-4574-B66C-177174A9CFE9 - 7300b22ed4731797"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "0ECF1F6D-7790-4574-B66C-177174A9CFE9 - 7300b22ed4731751"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Include_WeConvert.ContentView.convert(Swift.Int, Swift.String, Swift.String) -&gt; Swift.Int"
+                  moduleName = "Include WeConvert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunooliveira/Documents/Include-Systems/Cursos/100DaysSwiftUI%20APPs/WeConvert%20App/Include%20WeConvert/Include%20WeConvert/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "333">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF6D465D-96C5-4EF4-ABC3-777DEBE4B175"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "768D67B1-7ABE-442E-BE9D-F07EB027E2BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E92798ED-301F-4994-AD0E-61E9011F2E8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C801CA13-7EB0-460C-8E7E-9D45AFB3A2C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ADA9E1F-1CF0-4D5C-815C-195CB8708CFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45C2EF62-04EF-400F-B380-179C5AC384A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FB5CE83-DF77-4352-B64F-7D68A2C91F2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "955F5D8A-AB51-46E1-B439-43C1A8A3330F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB3E667E-4F6C-46DB-9D9D-511B6EFEE79E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "987612E3-1E4E-491C-8630-EA6387DB1600"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Include WeConvert/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "convert(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
