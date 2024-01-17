@@ -82,7 +82,7 @@ struct ContentView: View {
                         isHiddenError = false
                         isHiddenResult = true
                     } else {
-                        var result = convert(inputValue, inputUnit, outputUnit)
+                        let result = convert(inputValue, inputUnit, outputUnit)
                         titleResult = forTrailingZero(toString: result)
                         showingResult = true
                         isHiddenError = true
@@ -159,13 +159,13 @@ struct ContentView: View {
     func forTrailingZero(toString value: Double) -> String {
         
         if outputUnit == "Fahrenheit" {
-            var temp = String(format: "%g", value)
+            let temp = String(format: "%g", value)
             return "\(temp) ºF"
         } else if outputUnit == "Celsius" {
-            var temp = String(format: "%g", value)
+            let temp = String(format: "%g", value)
             return "\(temp) ºC"
         } else {
-            var temp = String(format: "%g", value)
+            let temp = String(format: "%g", value)
             return "\(temp) K"
         }
     
